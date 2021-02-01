@@ -1,1 +1,2 @@
-# app_lifecycle
+## app_lifecycle
+Logging. Events. State checks
